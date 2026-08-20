@@ -1,6 +1,6 @@
 # Ada — assistente pessoal no Telegram
 
-Assistente pessoal da Valéria, acessível pelo Telegram no celular, tablet e computador. Roda como um serviço web (FastAPI) hospedado gratuitamente na [Render](https://render.com), usando a [Groq](https://console.groq.com) (gratuita, sem cartão de crédito) como "cérebro" — tanto para conversar em texto quanto para transcrever mensagens de voz.
+Assistente pessoal da Valéria, acessível pelo Telegram no celular, tablet e computador. Roda como um serviço web (FastAPI) hospedado gratuitamente na [Render](https://render.com), usando a [Groq](https://console.groq.com) como "cérebro" — tanto para conversar em texto quanto para transcrever mensagens de voz.
 
 ## Como funciona
 
