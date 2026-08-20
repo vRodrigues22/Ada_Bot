@@ -30,7 +30,7 @@ SYSTEM_PROMPT = (
 
 # Modelo "compound" da Groq: além de conversar, pesquisa na web automaticamente
 # quando necessário. Gratuito, sem cartão de crédito.
-GROQ_CHAT_MODEL = "groq/compound"
+GROQ_CHAT_MODEL = "openai/gpt-oss-120b"
 GROQ_WHISPER_MODEL = "whisper-large-v3"
 MAX_HISTORY_MESSAGES = 20  # quantidade de mensagens (usuário+assistente) mantidas por conversa
 
